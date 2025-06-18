@@ -1,0 +1,93 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1749463285750,860,/web/index.php/auth/login-1,302,Found,,text,true,,1999,814,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,859,0,540
+1749463286734,919,/web/index.php/dashboard/index-2,200,OK,,text,true,,3140,819,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,918,0,456
+1749463287847,839,/web/index.php/core/i18n/messages-3,304,Not Modified,,,true,,1367,789,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,477
+1749463289439,851,/web/index.php/api/v2/buzz/feed-8,200,OK,,text,true,,3676,745,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,850,0,457
+1749463289435,887,/web/index.php/api/v2/dashboard/shortcuts-7,200,OK,,text,true,,1557,756,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,886,0,473
+1749463289426,920,/web/index.php/api/v2/dashboard/employees/time-at-work-5,200,OK,,text,true,,2549,831,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2025-06-09&currentTime=15%3A31,919,0,501
+1749463290230,138,/sdk/v2/vardata-10,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,136,0,115
+1749463289432,959,/web/index.php/api/v2/dashboard/employees/action-summary-6,200,OK,,text,true,,1533,771,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,958,0,468
+1749463290437,74,/sdk/v2/vardata-14,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,72,0,51
+1749463289442,1204,/web/index.php/events/push-4,200,OK,,text,true,,1454,774,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,1204,0,800
+1749463290745,71,/sdk/v2/vardata-17,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,68,0,48
+1749463289442,1457,/web/index.php/api/v2/dashboard/employees/leaves-9,200,OK,,text,true,,1440,779,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2025-06-09,1456,0,766
+1749463290320,805,/web/index.php/api/v2/dashboard/employees/subunit-11,200,OK,,text,true,,1699,764,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,804,0,460
+1749463290342,813,/web/index.php/api/v2/dashboard/employees/locations-12,200,OK,,text,true,,1592,766,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,812,0,443
+1749463290451,884,/web/index.php/pim/viewPhoto/empNumber/22-15,304,Not Modified,,,true,,1367,791,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,0,0,502
+1749463290433,978,/web/index.php/pim/viewPhoto/empNumber/7-13,200,OK,,bin,true,,17728,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,977,0,447
+1749463290666,934,/web/index.php/pim/viewPhoto/empNumber/11-16,304,Not Modified,,,true,,1367,791,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/11,0,0,442
+1749463290933,784,/web/index.php/buzz/photo/9-18,304,Not Modified,,,true,,1367,777,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/9,0,0,450
+1749463291155,795,/web/index.php/pim/viewPhoto/empNumber/9-19,304,Not Modified,,,true,,1367,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/9,0,0,482
+1749463342777,835,/web/index.php/auth/login-20,200,OK,,text,true,,2586,863,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,833,0,484
+1749463344373,134,/sdk/v2/vardata-22,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,132,0,108
+1749463343789,817,/web/index.php/core/i18n/messages-21,304,Not Modified,,,true,,1367,784,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,479
+1749463344839,75,/sdk/v2/vardata-23,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,73,0,51
+1749463344934,82,/sdk/v2/vardata-24,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,78,0,57
+1749463361511,207,/safebrowsing/clientreport/realtime-26,400,Bad Request,,text,false,,635,1608,0,0,https://safebrowsing.google.com/safebrowsing/clientreport/realtime,207,0,141
+1749463360774,1553,/web/index.php/auth/validate-25,302,Found,,text,true,,2092,1133,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/validate,1551,0,441
+1749463362341,817,/web/index.php/dashboard/index-27,200,OK,,text,true,,3140,863,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index,816,0,465
+1749463364727,99,/sdk/v2/vardata-29,200,OK,,text,true,,12404,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,77,0,56
+1749463364841,72,/sdk/v2/vardata-31,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,71,0,47
+1749463364937,120,/sdk/v2/vardata-32,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,118,0,50
+1749463364745,320,/v1/leaks:lookupSingle-30,200,OK,,text,true,,156707,890,0,0,https://passwordsleakcheck-pa.googleapis.com/v1/leaks:lookupSingle,250,0,146
+1749463363443,2671,/web/index.php/core/i18n/messages-28,304,Not Modified,,,true,,1367,789,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,1519
+1749463366224,762,/web/index.php/events/push-33,200,OK,,text,true,,1454,774,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/events/push,761,0,444
+1749463366247,769,/web/index.php/api/v2/dashboard/employees/leaves-37,200,OK,,text,true,,1440,779,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/leaves?date=2025-06-09,768,0,437
+1749463366224,874,/web/index.php/api/v2/dashboard/employees/time-at-work-34,200,OK,,text,true,,2549,831,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/time-at-work?timezoneOffset=5.5&currentDate=2025-06-09&currentTime=15%3A32,874,0,501
+1749463366253,880,/web/index.php/api/v2/dashboard/employees/subunit-38,200,OK,,text,true,,1699,764,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/subunit,880,0,472
+1749463366237,940,/web/index.php/api/v2/dashboard/shortcuts-36,200,OK,,text,true,,1557,756,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/shortcuts,940,0,480
+1749463366236,1005,/web/index.php/api/v2/dashboard/employees/action-summary-35,200,OK,,text,true,,1533,771,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/action-summary,1001,0,476
+1749463366994,844,/web/index.php/api/v2/buzz/feed-39,200,OK,,text,true,,3676,745,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/buzz/feed?limit=5&offset=0&sortOrder=DESC&sortField=share.createdAtUtc,843,0,493
+1749463367024,838,/web/index.php/api/v2/dashboard/employees/locations-40,200,OK,,text,true,,1592,766,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/dashboard/employees/locations,836,0,488
+1749463367111,792,/web/index.php/pim/viewPhoto/empNumber/7-41,304,Not Modified,,,true,,1367,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,484
+1749463367925,775,/web/index.php/pim/viewPhoto/empNumber/11-43,304,Not Modified,,,true,,1367,791,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/11,0,0,455
+1749463367925,807,/web/index.php/buzz/photo/9-44,304,Not Modified,,,true,,1367,777,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/buzz/photo/9,0,0,483
+1749463367927,1044,/web/index.php/pim/viewPhoto/empNumber/9-45,304,Not Modified,,,true,,1367,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/9,0,0,744
+1749463367900,1152,/web/index.php/pim/viewPhoto/empNumber/22-42,304,Not Modified,,,true,,1367,791,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/22,0,0,494
+1749463375355,119,/safebrowsing/clientreport/realtime-47,400,Bad Request,,text,false,,654,1950,0,0,https://safebrowsing.google.com/safebrowsing/clientreport/realtime,118,0,60
+1749463375332,859,/web/index.php/pim/viewPimModule-46,302,Found,,text,true,,2024,844,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPimModule,859,0,536
+1749463376207,111,/safebrowsing/clientreport/realtime-49,400,Bad Request,,text,false,,728,2118,0,0,https://safebrowsing.google.com/safebrowsing/clientreport/realtime,111,0,54
+1749463376200,839,/web/index.php/pim/viewEmployeeList-48,200,OK,,text,true,,3298,847,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList,839,0,479
+1749463378025,74,/sdk/v2/vardata-51,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,73,0,50
+1749463377259,962,/web/index.php/core/i18n/messages-50,304,Not Modified,,,true,,1367,794,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,442
+1749463378435,75,/sdk/v2/vardata-57,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,74,0,48
+1749463378550,110,/sdk/v2/vardata-58,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,88,0,68
+1749463378371,871,/web/index.php/api/v2/pim/employees-53,200,OK,,text,true,,14385,860,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?limit=50&offset=0&model=detailed&includeEmployees=onlyCurrent&sortField=employee.firstName&sortOrder=ASC,870,0,443
+1749463378394,848,/web/index.php/api/v2/admin/job-titles-55,200,OK,,text,true,,5488,766,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/job-titles?limit=0,847,0,440
+1749463378322,931,/web/index.php/pim/viewPhoto/empNumber/7-52,304,Not Modified,,,true,,1367,795,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,489
+1749463378381,943,/web/index.php/api/v2/admin/employment-statuses-54,200,OK,,text,true,,1631,775,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/employment-statuses?limit=0,942,0,491
+1749463378405,948,/web/index.php/api/v2/admin/subunits-56,200,OK,,text,true,,2781,756,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/admin/subunits,948,0,473
+1749463409892,2466,/web/index.php/pim/addEmployee-59,200,OK,,text,true,,3315,847,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/addEmployee,2465,0,832
+1749463412553,793,/web/index.php/core/i18n/messages-60,304,Not Modified,,,true,,1367,789,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,485
+1749463413176,408,/sdk/v2/vardata-61,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,118,0,96
+1749463413605,79,/sdk/v2/vardata-64,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,77,0,54
+1749463413703,73,/sdk/v2/vardata-65,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,71,0,49
+1749463413429,830,/web/index.php/pim/viewPhoto/empNumber/7-62,304,Not Modified,,,true,,1367,790,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,486
+1749463413457,1002,/web/index.php/api/v2/pim/employees-63,200,OK,,text,true,,7385,750,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,1002,0,442
+1749463428886,1643,/web/index.php/api/v2/core/validation/unique-66,200,OK,,text,true,,1417,753,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/core/validation/unique?value=0231&entityName=Employee&attributeName=employeeId,1642,0,1290
+1749463431544,240,/v1/forms:vote?alt=proto-68,400,Bad Request,,text,false,,523,834,0,0,https://content-autofill.googleapis.com/v1/forms:vote?alt=proto,240,0,132
+1749463431532,1275,/web/index.php/api/v2/core/validation/unique-67,200,OK,,text,true,,1417,753,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/core/validation/unique?value=0231&entityName=Employee&attributeName=employeeId,1274,0,502
+1749463432841,1207,/web/index.php/api/v2/pim/employees-69,200,OK,,text,true,,1514,867,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,1206,0,489
+1749463436623,830,/web/index.php/pim/viewPersonalDetails/empNumber/179-70,200,OK,,text,true,,5552,844,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/179,829,0,459
+1749463437611,795,/web/index.php/core/i18n/messages-71,304,Not Modified,,,true,,1367,811,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,463
+1749463438443,75,/sdk/v2/vardata-72,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,73,0,50
+1749463438948,76,/sdk/v2/vardata-80,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,73,0,50
+1749463438858,169,/v1/pages/ChRDaHJvbWUvMTM3LjAuNzE1MS42ORJKCYGxSmIy9q3EEgUNa2iabhIFDTEj1CsSBQ1Pnif4EgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4hdU4Ebr80_4MSGQmvTyx_rP-tUxIFDZFhlU4hGpJq_YIWpoE=-79,200,OK,,text,true,,542,733,0,0,https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTM3LjAuNzE1MS42ORJKCYGxSmIy9q3EEgUNa2iabhIFDTEj1CsSBQ1Pnif4EgUNkWGVThIFDZFhlU4SBQ2RYZVOEgUNkWGVThIFDZFhlU4hdU4Ebr80_4MSGQmvTyx_rP-tUxIFDZFhlU4hGpJq_YIWpoE=?alt=proto,168,0,68
+1749463438822,872,/web/index.php/api/v2/leave/workweek-77,200,OK,,text,true,,1446,725,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,871,0,450
+1749463438826,959,/web/index.php/api/v2/pim/employees/179/custom-fields-78,200,OK,,text,true,,1654,806,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/179/custom-fields?screen=personal,957,0,462
+1749463438651,1149,/web/index.php/pim/viewPhoto/empNumber/179-74,200,OK,,bin,true,,6158,751,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/179,1148,0,746
+1749463438603,1212,/web/index.php/pim/viewPhoto/empNumber/7-73,304,Not Modified,,,true,,1367,812,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPhoto/empNumber/7,0,0,802
+1749463438810,1026,/web/index.php/api/v2/pim/employees/179-75,200,OK,,text,true,,1514,714,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/179,1026,0,485
+1749463438819,1094,/web/index.php/api/v2/pim/employees/179/personal-details-76,200,OK,,text,true,,1672,793,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/179/personal-details,1093,0,441
+1749463439089,1097,/sdk/v2/vardata-81,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,1093,0,1070
+1749463439708,855,/web/index.php/api/v2/pim/employees/179/screen/personal/attachments-82,200,OK,,text,true,,1450,822,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/179/screen/personal/attachments?limit=50&offset=0,854,0,486
+1749463439827,827,/web/index.php/api/v2/leave/workweek-84,200,OK,,text,true,,1446,725,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/workweek?model=indexed,826,0,445
+1749463439796,897,/web/index.php/api/v2/leave/holidays-83,200,OK,,text,true,,3225,749,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2025-01-01&toDate=2025-12-31,896,0,486
+1749463439963,920,/web/index.php/api/v2/pim/employees-85,200,OK,,text,true,,7391,710,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees,919,0,463
+1749463440707,861,/web/index.php/api/v2/leave/holidays-86,200,OK,,text,true,,3225,749,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/leave/holidays?fromDate=2025-01-01&toDate=2025-12-31,860,0,489
+1749463451221,752,/web/index.php/auth/logout-87,302,Found,,text,true,,2067,860,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/logout,751,0,448
+1749463451988,971,/web/index.php/auth/login-88,200,OK,,text,true,,2598,859,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/auth/login,970,0,486
+1749463454019,72,/sdk/v2/vardata-90,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,71,0,49
+1749463454121,71,/sdk/v2/vardata-91,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,69,0,46
+1749463454210,80,/sdk/v2/vardata-92,200,OK,,text,true,,12403,802,0,0,https://api.lab.amplitude.com/sdk/v2/vardata?v=0,77,0,52
+1749463453184,1876,/web/index.php/core/i18n/messages-89,304,Not Modified,,,true,,1367,784,0,0,https://opensource-demo.orangehrmlive.com/web/index.php/core/i18n/messages,0,0,1494
